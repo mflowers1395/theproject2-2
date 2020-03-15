@@ -10,3 +10,7 @@ img{
   margin-right: auto;
   width: 15%;
 }
+
+.page-2 selector {
+p{color: green;}
+}
