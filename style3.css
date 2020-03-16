@@ -3,3 +3,30 @@ h1{color: #C32148;}
 p{color: #8B008B;}
 
 li{color: #8B008B;}
+
+l {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color: #E4D00A;
+}
+
+li {
+  float: left;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: #C32148;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #FFD1DC;
+  text-align: center;
+}
