@@ -1,8 +1,35 @@
-p{color: #6a0dad;}
+h1{
+  color: #C32148;
+  text-align: center;
+}
 
-h1{color: #C32148;}
+p{
+  color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  width: 40%;
+}
+
+}
 
 li{color: #8B008B;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  width: 15%;
+}
+
+
+
+
+body {
+  background-color: #FFD1DC;
+}
 
 ul {
   list-style-type: none;
