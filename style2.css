@@ -24,3 +24,7 @@ p{
 body {
   background-color: #FFD1DC;
 }
+
+img, p{
+  p.solid {border-style: solid;}
+}
