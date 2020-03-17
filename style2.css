@@ -39,6 +39,10 @@ img {
   float: left;
 }
 
+#vid{
+  float: left;
+}
+
 .nav{
     border:1px solid #C32148;
     border-width:1px 0;
