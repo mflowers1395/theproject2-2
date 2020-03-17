@@ -12,9 +12,10 @@ p{
   width: 40%;
 }
 
+li{
+  color: #8B008B;
 }
 
-li{color: #8B008B;}
 
 img {
   display: block;
@@ -39,9 +40,6 @@ img {
   float: center;
 }
 
-#vid{
-  float: left;
-}
 
 .nav{
     border:1px solid #C32148;
