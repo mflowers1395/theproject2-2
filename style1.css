@@ -21,7 +21,7 @@ p{
     text-align: center;
 }
 
-.nav a:hover{
+.nav{
     border:1px solid #FFD1DC;
     border-width:1px 0;
     list-style:none;
