@@ -23,11 +23,11 @@ p{
 
 
 div {
-  background-color: lightgrey;
+  background-color: #FFD1DC;
   width: 300px;
   border: 15px solid pink;
-  padding: center;
-  margin: center;
+  padding: 50px;
+  margin: 20px;
 }
 .nav{
     border:1px solid #C32148;
