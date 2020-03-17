@@ -31,6 +31,7 @@ p{
 }
 .nav li{
     display:inline;
+    background-color: #E4D00A;
 }
 .nav a{
     display:inline-block;
