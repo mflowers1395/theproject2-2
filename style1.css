@@ -27,8 +27,8 @@ div {
   width: 300px;
   border: 15px solid pink;
   padding: 50px;
-  margin: 20px;
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .nav{
     border:1px solid #C32148;
