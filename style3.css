@@ -25,29 +25,22 @@ float: right;
 }
 
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  text-align: center;
-  background-color: #E4D00A;
+.nav{
+    border:1px solid #FFD1DC;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    background-color: #FFD1DC;
 }
-
-li {
-  float: left;
-  text-align: center;
+.nav li{
+    display:inline;
+    background-color: #E4D00A;
 }
-
-li a {
-  display: block;
-  color: #C32148;
-  text-align: center;
-  padding: 14px 30px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #FFD1DC;
-  text-align: center;
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: #C32148;
+    background-color: #E4D00A;
 }
