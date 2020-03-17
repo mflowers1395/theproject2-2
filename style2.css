@@ -35,6 +35,9 @@ img {
   float: right;
 }
 
+#video{
+  float: left;
+}
 
 .nav{
     border:1px solid #C32148;
