@@ -56,3 +56,9 @@ img {
     color: #C32148;
     background-color: #E4D00A;
 }
+
+.video {
+	display: block;
+	width: auto;
+	margin: 0 auto; 
+}
